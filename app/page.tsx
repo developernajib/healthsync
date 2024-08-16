@@ -27,7 +27,7 @@ export default function Home() {
         </div>
       </section>
       <Image 
-        src={'/assets/images/onboarding-img.png'}
+        src={'/assets/images/onboarding-img-2.jpeg'}
         alt="onboarding"
         className="side-img max-w-[50%]"
         width={1000}
